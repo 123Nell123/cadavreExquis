@@ -1,5 +1,5 @@
 # Pour s'entrainer dans la joie et la bonne humeur aux collaborations sur un projet !
-selon le principe du cadavre exquis :
+## selon le principe du cadavre exquis :
 
 
 *Inventé par les surréalistes, le cadavre exquis est un jeu collectif « qui consiste à
