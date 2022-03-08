@@ -6,4 +6,4 @@ selon le principe du cadavre exquis :
 faire composer une phrase, ou un dessin, par plusieurs personnes sans qu’aucune
 d’elles ne puisse tenir compte de la collaboration ou des collaborations précédentes. »*
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$         (Le Dictionnaire abrégé du surréalisme, André Breton, 1938). 
+  (Le Dictionnaire abrégé du surréalisme, André Breton, 1938). 
