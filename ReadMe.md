@@ -1,4 +1,4 @@
-#Pour s'entrainer dans la joie et la bonne humeur aux collaborations sur un projet !
+# Pour s'entrainer dans la joie et la bonne humeur aux collaborations sur un projet !
 selon le principe du cadavre exquis :
 
 
